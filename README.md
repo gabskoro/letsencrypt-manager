@@ -4,7 +4,7 @@
 
 1. Installing letsencrypt
 2. Domain registering
-3. [Domain renewal](#3.-domain-renewal)
+3. [Domain renewal](#3-domain-renewal)
 
 ####Install instructions
 
